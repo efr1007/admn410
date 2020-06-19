@@ -1,0 +1,61 @@
+#main {
+  	border: 5px solid rgb(0,0,0);
+	border-style: double;
+	background-color: lightpink;
+	text-align: center;
+	font-family: Georgia;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+
+h2 {
+
+	font-size: 25px;
+}
+
+p {
+
+  font-size: 15px;
+}
+
+header{
+	border: 5px solid rgb(0,0,0);
+	border-style: double;
+	background-color: lightpink;
+	text-align: center;
+	font-family: Georgia;
+}
+
+
+nav {
+font-family: Georgia;
+}
+
+
+nav ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+background-color: lightblue;
+border-radius: 15px;
+}
+
+nav li {
+display: inline-block;
+margin-left: 70px;
+padding-top: 25px;
+padding-bottom: 25px;
+}
+
+nav a {
+text-decoration: none;
+text-transform: uppercase;
+color: black;
+
+}
+
+
